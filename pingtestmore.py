@@ -11,7 +11,6 @@ import xlrd
 import time
 import sendemail
         
-        
 def parsedomain(domain):
     """ Cleans up the domains from the VSD to be useable by the program.
     Prepends www, no http:// or https://"""
@@ -42,18 +41,22 @@ def test_sites(domainlist):
             count=count+1
             try:
                 resp=requests.head("http://"+domain, timeout=fail_time).status_code
-                #print "Site: "+clientname[index]+"\t Status Code: "+str(resp)
                 results.append([clientname[index],str(resp),server[index],"http://"+domain])
                 if (resp!=200 and resp!=302):
                     errors=errors+1
                     print resp
-            except requests.exceptions.ConnectTimeout:
-                results.append([clientname[index],'timeout',server[index],"http://"+domain])
+            except requests.exceptions.ConnectTimeout as ct:
+                results.append([clientname[index],"ConnectTimeout="+str(fail_time), server[index], "http://"+domain])
                 errors=errors+1
-            except:
-                results.append([clientname[index],'0',server[index],"http://"+domain])
+            except requests.exceptions.ReadTimeout as rt:
+                results.append([clientname[index],"ReadTimeout="+str(fail_time), server[index], "http://"+domain])
                 errors=errors+1
-                #print "Site: "+clientname[index]+" is having trouble"
+            except requests.ConnectionError as ce:
+                results.append([clientname[index],"Connection Error",server[index],"http://"+domain])
+                errors=errors+1
+            except requests.RequestException as g:
+                results.append([clientname[index],'unknown',server[index],"http://"+domain])
+                errors=errors+1                    
         index=index+1
     t2=time.time()
     run_time=t2-t1
@@ -61,6 +64,7 @@ def test_sites(domainlist):
 
 def process_results(run_time, results, errors, count, last_five):
     str_rep="Number of sites checked: "+str(count)+" <br>\nNumber of errors: "+str(errors)+" <br>\nRun Time: "+str(run_time/60.0)[0:4]+"mins <br>\n"
+    prnt_rep="Number of sites checked: "+str(count)+"\nNumber of errors: "+str(errors)+"\nRun Time: "+str(run_time/60.0)[0:4]+"mins\n"
 
     str_error=''
     prnt_error=''
@@ -68,9 +72,9 @@ def process_results(run_time, results, errors, count, last_five):
         for row in results:
             if (row[1]!='200' and row[1]!='302'):
                 str_error=str_error+row[1]+": "+'<a href=\"'+row[3]+'\">'+row[0]+'</a>'+" server: "+row[2]+" <br>\n"
-                prnt_error=str_error+row[1]+": "+row[0]+" server: "+row[2]+" <br>\n"
-    output=time.ctime()+" <br>\n"+str_rep+prnt_error+str_break
-    print output
+                prnt_error=prnt_error+row[1]+": "+row[0]+" server: "+row[2]+"\n"
+    prnt_output=time.ctime()+"\n"+prnt_rep+prnt_error+prnt_break
+    print prnt_output
     output=time.ctime()+" <br>\n"+str_rep+str_error+str_break
     text=open('C:\wamp\www\check_results.html','a')
     text.write(output)
@@ -97,6 +101,7 @@ cmstype=[]
 maint=[]
 server=[]
 str_break='=====================================================================<br>\n'
+prnt_break='=====================================================================\n'
 fail_time=15.0
 pause=60
 
