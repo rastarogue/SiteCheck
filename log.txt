@@ -1509,3 +1509,492 @@ Mon Feb 01 16:13:16 2016|48.5959999561|1|226|0|0|0|0|1+Rock Hill, City of - SC|
 Mon Feb 01 16:15:21 2016|65.0540001392|2|226|0|1+Coachella, City of - CA|0|0|1+Rock Hill, City of - SC|
 Mon Feb 01 16:17:26 2016|65.0160000324|1|226|0|0|0|0|1+Rock Hill, City of - SC|
 Mon Feb 01 16:19:18 2016|51.2489998341|1|226|0|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:21:32 2016|74.7679998875|1|226|0|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:23:23 2016|50.0340001583|1|226|0|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:25:12 2016|49.4790000916|1|226|0|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:27:44 2016|91.5209999084|2|226|0|1+Coachella, City of - CA|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:29:37 2016|53.2300000191|1|226|0|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:31:44 2016|66.5490000248|1|226|0|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:33:59 2016|75.6470000744|2|226|0|1+Lafourche Parish - LA|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:36:26 2016|87.1380000114|4|226|2+Fort Saskatchewan, City of - AB+Tumwater, City of - WA|1+Lafourche Parish - LA|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:38:30 2016|63.9040000439|2|226|1+Grand Forks, City of - ND|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:40:35 2016|64.8849999905|2|226|0|1+Coachella, City of - CA|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:42:51 2016|75.3699998856|2|226|0|1+Coachella, City of - CA|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:45:35 2016|103.898999929|3|226|0|3+Coachella, City of - CA+Greenwood, City of - SC+Rock Hill, City of - SC|0|0|0|
+Mon Feb 01 16:47:56 2016|80.7899999619|2|226|1+Novato, City of - CA|0|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:50:26 2016|90.6199998856|2|226|0|1+Lafourche Parish - LA|0|0|1+Rock Hill, City of - SC|
+Mon Feb 01 16:52:43 2016|76.753000021|2|226|1+Dallas County - IA|1+Rock Hill, City of - SC|0|0|0|
+Mon Feb 01 16:54:53 2016|70.0709998608|0|226|0|0|0|0|0|
+Mon Feb 01 16:57:02 2016|68.1890001297|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 16:59:12 2016|70.6779999733|0|226|0|0|0|0|0|
+Mon Feb 01 17:01:21 2016|68.6950001717|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 17:03:33 2016|71.7369999886|1|226|0|1+Baxter Community School District - IA|0|0|0|
+Mon Feb 01 17:06:32 2016|119.518000126|4|226|0|4+Madison County - AL+Sandy Springs, City of - GA+Westerville, City of - OH+Wood Dale, City of - IL|0|0|0|
+Mon Feb 01 17:09:30 2016|118.046999931|4|226|1+Trabuco Canyon Water District - CA|3+Coachella, City of - CA+Duluth Economic Development Authority - MN+East Palo Alto Sanitary District - CA|0|0|0|
+Mon Feb 01 17:11:36 2016|65.628000021|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 17:13:52 2016|76.2200000286|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 17:15:58 2016|65.6849999428|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 17:17:51 2016|52.4289999008|0|226|0|0|0|0|0|
+Mon Feb 01 17:19:39 2016|48.3789999485|0|226|0|0|0|0|0|
+Mon Feb 01 17:22:22 2016|102.66899991|1|226|0|1+West Hollywood, City of - CA|0|0|0|
+Mon Feb 01 17:24:12 2016|49.8190000057|0|226|0|0|0|0|0|
+Mon Feb 01 17:26:26 2016|74.4660000801|1|226|0|1+West Hollywood, City of - CA|0|0|0|
+Mon Feb 01 17:28:44 2016|77.5920000076|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 17:30:34 2016|49.9400000572|0|226|0|0|0|0|0|
+Mon Feb 01 17:32:26 2016|52.2070000172|0|226|0|0|0|0|0|
+Mon Feb 01 17:34:28 2016|61.4809999466|0|226|0|0|0|0|0|
+Mon Feb 01 17:36:16 2016|48.6159999371|0|226|0|0|0|0|0|
+Mon Feb 01 17:38:19 2016|62.117000103|0|226|0|0|0|0|0|
+Mon Feb 01 17:40:12 2016|53.7339999676|0|226|0|0|0|0|0|
+Mon Feb 01 17:42:28 2016|75.5820000172|0|226|0|0|0|0|0|
+Mon Feb 01 17:44:50 2016|81.7200000286|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 17:46:51 2016|61.7019999027|0|226|0|0|0|0|0|
+Mon Feb 01 17:48:43 2016|51.9869999886|0|226|0|0|0|0|0|
+Mon Feb 01 17:50:35 2016|51.2279999256|0|226|0|0|0|0|0|
+Mon Feb 01 17:52:25 2016|49.8589999676|0|226|0|0|0|0|0|
+Mon Feb 01 17:54:25 2016|60.5009999275|0|226|0|0|0|0|0|
+Mon Feb 01 17:56:40 2016|74.7570002079|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 17:58:35 2016|55.1820001602|0|226|0|0|0|0|0|
+Mon Feb 01 18:01:03 2016|87.1970000267|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 18:03:04 2016|61.5179998875|0|226|0|0|0|0|0|
+Mon Feb 01 18:04:55 2016|50.8940000534|0|226|0|0|0|0|0|
+Mon Feb 01 18:06:48 2016|52.8129999638|0|226|0|0|0|0|0|
+Mon Feb 01 18:09:27 2016|99.1519999504|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 18:11:40 2016|72.6019999981|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 18:14:01 2016|81.5120000839|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 18:16:02 2016|60.1179997921|0|226|0|0|0|0|0|
+Mon Feb 01 18:18:04 2016|62.492000103|0|226|0|0|0|0|0|
+Mon Feb 01 18:19:56 2016|51.5559999943|0|226|0|0|0|0|0|
+Mon Feb 01 18:22:12 2016|75.8150000572|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 18:24:15 2016|63.8370001316|0|226|0|0|0|0|0|
+Mon Feb 01 18:26:19 2016|63.6119999886|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 18:28:21 2016|61.7030000687|0|226|0|0|0|0|0|
+Mon Feb 01 18:30:37 2016|76.1059999466|1|226|0|1+West Hollywood, City of - CA|0|0|0|
+Mon Feb 01 18:32:40 2016|63.2960000038|0|226|0|0|0|0|0|
+Mon Feb 01 18:34:41 2016|60.2109999657|0|226|0|0|0|0|0|
+Mon Feb 01 18:36:58 2016|76.8109998703|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 18:38:53 2016|54.9279999733|0|226|0|0|0|0|0|
+Mon Feb 01 18:41:09 2016|76.8529999256|1|226|1+Lethbridge County - AB|0|0|0|0|
+Mon Feb 01 18:42:59 2016|49.2060000896|0|226|0|0|0|0|0|
+Mon Feb 01 18:44:59 2016|60.5690000057|0|226|0|0|0|0|0|
+Mon Feb 01 18:47:06 2016|66.7739999294|1|226|0|1+Goleta, City of - CA|0|0|0|
+Mon Feb 01 18:49:25 2016|78.7939999104|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 18:51:41 2016|75.7479999065|1|226|1+American Canyon, City of - CA|0|0|0|0|
+Mon Feb 01 18:53:28 2016|47.6500000954|0|226|0|0|0|0|0|
+Mon Feb 01 18:55:44 2016|75.1490001678|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 18:58:10 2016|86.5089998245|1|226|0|1+Goleta, City of - CA|0|0|0|
+Mon Feb 01 19:00:02 2016|51.3519999981|0|226|0|0|0|0|0|
+Mon Feb 01 19:02:13 2016|71.6450002193|0|226|0|0|0|0|0|
+Mon Feb 01 19:04:08 2016|54.6199998856|0|226|0|0|0|0|0|
+Mon Feb 01 19:06:17 2016|68.4630000591|0|226|0|0|0|0|0|
+Mon Feb 01 19:08:45 2016|88.263999939|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 19:11:02 2016|77.4700000286|1|226|0|0|0|0|1+Yuma County - AZ|
+Mon Feb 01 19:13:17 2016|74.2919998169|1|226|0|0|0|0|1+Yuma County - AZ|
+Mon Feb 01 19:15:09 2016|52.4880001545|1|226|0|0|0|0|1+Yuma County - AZ|
+Mon Feb 01 19:17:00 2016|50.8849999905|0|226|0|0|0|0|0|
+Mon Feb 01 19:19:01 2016|61.1470000744|0|226|0|0|0|0|0|
+Mon Feb 01 19:21:28 2016|86.7339999676|0|226|0|0|0|0|0|
+Mon Feb 01 19:23:33 2016|64.4869999886|0|226|0|0|0|0|0|
+Mon Feb 01 19:25:28 2016|55.2119998932|0|226|0|0|0|0|0|
+Mon Feb 01 19:27:29 2016|60.7129998207|0|226|0|0|0|0|0|
+Mon Feb 01 19:29:33 2016|63.882999897|0|226|0|0|0|0|0|
+Mon Feb 01 19:32:25 2016|112.1650002|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 19:34:54 2016|88.9409999847|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 19:36:56 2016|62.2100000381|0|226|0|0|0|0|0|
+Mon Feb 01 19:39:08 2016|71.9700000286|0|226|0|0|0|0|0|
+Mon Feb 01 19:41:23 2016|74.3499999046|0|226|0|0|0|0|0|
+Mon Feb 01 19:43:36 2016|73.4070000648|0|226|0|0|0|0|0|
+Mon Feb 01 19:46:01 2016|84.9309999943|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 19:48:05 2016|63.8340001106|0|226|0|0|0|0|0|
+Mon Feb 01 19:50:50 2016|104.905999899|0|226|0|0|0|0|0|
+Mon Feb 01 19:52:58 2016|67.7789998055|0|226|0|0|0|0|0|
+Mon Feb 01 19:55:25 2016|86.8180000782|1|226|1+Superior, Town of - CO|0|0|0|0|
+Mon Feb 01 19:57:43 2016|78.3149998188|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 19:59:42 2016|58.5220000744|0|226|0|0|0|0|0|
+Mon Feb 01 20:01:56 2016|74.2009999752|0|226|0|0|0|0|0|
+Mon Feb 01 20:03:49 2016|53.2720000744|0|226|0|0|0|0|0|
+Mon Feb 01 20:06:10 2016|80.4630000591|0|226|0|0|0|0|0|
+Mon Feb 01 20:08:38 2016|88.4680001736|1|226|0|1+Whatcom Community College - WA|0|0|0|
+Mon Feb 01 20:10:49 2016|71.0789999962|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 20:12:57 2016|67.2779998779|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 20:14:47 2016|50.7279999256|0|226|0|0|0|0|0|
+Mon Feb 01 20:16:48 2016|60.2139999866|0|226|0|0|0|0|0|
+Mon Feb 01 20:19:20 2016|92.0450000763|0|226|0|0|0|0|0|
+Mon Feb 01 20:21:30 2016|69.7000000477|0|226|0|0|0|0|0|
+Mon Feb 01 20:23:48 2016|78.8100001812|1|226|1+Tempe Elementary School District No. 3 - AZ|0|0|0|0|
+Mon Feb 01 20:26:16 2016|87.9329998493|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 20:28:24 2016|67.8429999352|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 20:30:27 2016|62.7900002003|0|226|0|0|0|0|0|
+Mon Feb 01 20:32:34 2016|66.4080002308|0|226|0|0|0|0|0|
+Mon Feb 01 20:34:36 2016|62.1029999256|0|226|0|0|0|0|0|
+Mon Feb 01 20:37:06 2016|89.7670001984|0|226|0|0|0|0|0|
+Mon Feb 01 20:39:08 2016|62.6639997959|0|226|0|0|0|0|0|
+Mon Feb 01 20:41:29 2016|81.1499998569|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 20:43:44 2016|74.256000042|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 20:45:39 2016|55.5010001659|0|226|0|0|0|0|0|
+Mon Feb 01 20:47:44 2016|64.9060001373|0|226|0|0|0|0|0|
+Mon Feb 01 20:49:34 2016|50.1119999886|0|226|0|0|0|0|0|
+Mon Feb 01 20:51:52 2016|77.1159999371|1|226|0|1+Whatcom Community College - WA|0|0|0|
+Mon Feb 01 20:54:16 2016|84.1080000401|2|226|0|2+Goleta, City of - CA+Vallecitos Water District - CA|0|0|0|
+Mon Feb 01 20:56:49 2016|93.2939999104|2|226|0|2+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 20:59:22 2016|92.6160001755|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 21:02:38 2016|135.726000071|3|226|0|3+Coachella, City of - CA+Crystal Lake, City of - IL+Eau Claire, City of - WI|0|0|0|
+Mon Feb 01 21:04:31 2016|53.2329998016|0|226|0|0|0|0|0|
+Mon Feb 01 21:07:27 2016|116.39199996|3|226|0|3+Barstow, City of - CA+Goleta, City of - CA+Tredyffrin Township - PA|0|0|0|
+Mon Feb 01 21:09:48 2016|80.3940000534|1|226|0|1+Goleta, City of - CA|0|0|0|
+Mon Feb 01 21:12:36 2016|108.213000059|2|226|0|2+Goleta, City of - CA+Norfolk Public Library - VA|0|0|0|
+Mon Feb 01 21:16:16 2016|159.620000124|6|226|0|6+Coachella, City of - CA+Lafourche Parish - LA+Miami Beach, City of/Capital Improvements Projects - FL+Oak Lawn, Village of - IL+Richland Hills, City of - TX+Westbrook, City of - ME|0|0|0|
+Mon Feb 01 21:18:15 2016|59.0340001583|0|226|0|0|0|0|0|
+Mon Feb 01 21:20:51 2016|96.5499999523|3|226|0|3+Premier Members Federal Credit Union - CO+Queen Creek, Town of - AZ+San Bernardino VMWD - CA|0|0|0|
+Mon Feb 01 21:23:08 2016|76.5820000172|0|226|0|0|0|0|0|
+Mon Feb 01 21:26:22 2016|134.024000168|2|226|0|2+Shakopee, City of - MN+Trabuco Canyon Water District - CA|0|0|0|
+Mon Feb 01 21:28:59 2016|97.0179998875|3|226|0|3+Chippewa Falls, City of - WI+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 21:31:52 2016|112.282000065|3|226|0|3+Fond du Lac County - WI+Lafourche Parish - LA+Norwalk, City of - CA|0|0|0|
+Mon Feb 01 21:33:44 2016|52.4379999638|0|226|0|0|0|0|0|
+Mon Feb 01 21:36:49 2016|124.963000059|4|226|0|4+Bartlett, Village of - IL+Bullhead City, City of - AZ+Claremont, City of - CA+Sharpsburg, Town of - NC|0|0|0|
+Mon Feb 01 21:39:08 2016|78.7630000114|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 21:42:30 2016|141.946000099|2|226|0|2+Chula Vista, City of - CA+Denton, City of - TX|0|0|0|
+Mon Feb 01 21:44:37 2016|67.4419999123|0|226|0|0|0|0|0|
+Mon Feb 01 21:47:03 2016|85.3860001564|2|226|0|2+American Canyon, City of - CA+Burbank, City of/Transportation Division - CA|0|0|0|
+Mon Feb 01 21:49:06 2016|62.7260000706|0|226|0|0|0|0|0|
+Mon Feb 01 21:51:43 2016|96.8849999905|3|226|0|3+Donna, City of - TX+Durham County - NC+Lafayette, City of - CA|0|0|0|
+Mon Feb 01 21:53:45 2016|62.0570001602|0|226|0|0|0|0|0|
+Mon Feb 01 21:57:30 2016|165.227999926|5|226|0|5+Bay City, City of - TX+Baytown, City of - TX+Beaufort, Town of - NC+Kent, City of - OH+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 21:59:24 2016|53.8040001392|0|226|0|0|0|0|0|
+Mon Feb 01 22:02:01 2016|96.9129998684|3|226|0|3+Apple Valley, Town of - CA+Bridgeton, City of - MO+Laguna Beach County Water District - CA|0|0|0|
+Mon Feb 01 22:04:23 2016|82.1040000916|0|226|0|0|0|0|0|
+Mon Feb 01 22:07:33 2016|129.684000015|2|226|0|2+Albertville, City of - AL+Columbia County - GA|0|0|0|
+Mon Feb 01 22:09:27 2016|54.3059999943|0|226|0|0|0|0|0|
+Mon Feb 01 22:11:43 2016|75.4100000858|0|226|0|0|0|0|0|
+Mon Feb 01 22:13:47 2016|64.6349999905|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 22:16:49 2016|121.743000031|4|226|0|4+Abington Township - PA+Ames, City of - IA+Arcadia, City of - CA+Wasilla, City of - AK|0|0|0|
+Mon Feb 01 22:18:46 2016|57.1259999275|0|226|0|0|0|0|0|
+Mon Feb 01 22:21:31 2016|104.698999882|3|226|0|3+Lafourche Parish - LA+Newport, City of - RI+Robbinsdale, City of - MN|0|0|0|
+Mon Feb 01 22:23:35 2016|64.361000061|0|226|0|0|0|0|0|
+Mon Feb 01 22:26:38 2016|122.342000008|4|226|0|4+Coachella, City of - CA+Eastvale, City of - CA+Hanover Township - IL+Yucaipa Valley Water District - CA|0|0|0|
+Mon Feb 01 22:28:57 2016|79.1399998665|0|226|0|0|0|0|0|
+Mon Feb 01 22:31:19 2016|81.7570002079|2|226|0|2+Inter-American Foundation - VA+Lancaster, City of - CA|0|0|0|
+Mon Feb 01 22:33:37 2016|77.893999815|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 22:36:12 2016|95.2970001698|2|226|0|2+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 22:38:29 2016|77.1259999275|1|226|0|1+Columbia County - GA|0|0|0|
+Mon Feb 01 22:40:21 2016|51.4330000877|0|226|0|0|0|0|0|
+Mon Feb 01 22:42:18 2016|57.3819999695|0|226|0|0|0|0|0|
+Mon Feb 01 22:44:23 2016|64.978000164|0|226|0|0|0|0|0|
+Mon Feb 01 22:46:42 2016|78.3329999447|0|226|0|0|0|0|0|
+Mon Feb 01 22:49:12 2016|90.0999999046|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 22:51:18 2016|65.8159999847|0|226|0|0|0|0|0|
+Mon Feb 01 22:53:23 2016|65.1589999199|0|226|0|0|0|0|0|
+Mon Feb 01 22:55:36 2016|72.9590001106|0|226|0|0|0|0|0|
+Mon Feb 01 22:57:55 2016|79.4000000954|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 23:00:05 2016|69.6059999466|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:02:36 2016|91.4210000038|2|226|0|2+Lafourche Parish - LA+Union City, City of - CA|0|0|0|
+Mon Feb 01 23:04:50 2016|73.8310000896|0|226|0|0|0|0|0|
+Mon Feb 01 23:06:56 2016|65.6430001259|0|226|0|0|0|0|0|
+Mon Feb 01 23:09:33 2016|96.882999897|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 23:12:02 2016|88.5190000534|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 23:14:09 2016|67.8459999561|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:16:04 2016|54.614000082|0|226|0|0|0|0|0|
+Mon Feb 01 23:18:01 2016|57.0230000019|0|226|0|0|0|0|0|
+Mon Feb 01 23:20:16 2016|74.9509999752|0|226|0|0|0|0|0|
+Mon Feb 01 23:22:33 2016|77.1240000725|0|226|0|0|0|0|0|
+Mon Feb 01 23:25:02 2016|88.121999979|1|226|0|1+Coachella, City of - CA|0|0|0|
+Mon Feb 01 23:27:25 2016|83.4749999046|2|226|0|2+Goleta, City of - CA+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:29:28 2016|62.4330000877|0|226|0|0|0|0|0|
+Mon Feb 01 23:31:39 2016|71.5729999542|0|226|0|0|0|0|0|
+Mon Feb 01 23:33:34 2016|54.6149997711|0|226|0|0|0|0|0|
+Mon Feb 01 23:35:45 2016|71.0099999905|0|226|0|0|0|0|0|
+Mon Feb 01 23:38:18 2016|93.2430000305|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:41:02 2016|103.657999992|2|226|0|2+Goleta, City of - CA+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:43:16 2016|73.5250000954|1|226|0|1+Goleta, City of - CA|0|0|0|
+Mon Feb 01 23:45:21 2016|65.3210000992|0|226|0|0|0|0|0|
+Mon Feb 01 23:47:45 2016|83.9509999752|0|226|0|0|0|0|0|
+Mon Feb 01 23:49:38 2016|52.7539999485|0|226|0|0|0|0|0|
+Mon Feb 01 23:51:57 2016|78.8510000706|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:54:17 2016|80.6489999294|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:56:29 2016|71.5149998665|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Mon Feb 01 23:58:33 2016|63.6419999599|0|226|0|0|0|0|0|
+Tue Feb 02 00:00:56 2016|83.4219999313|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 00:03:13 2016|76.6410000324|0|226|0|0|0|0|0|
+Tue Feb 02 00:05:08 2016|54.9489998817|0|226|0|0|0|0|0|
+Tue Feb 02 00:07:38 2016|90.4830000401|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 00:09:53 2016|74.2339999676|0|226|0|0|0|0|0|
+Tue Feb 02 00:11:52 2016|59.7760000229|0|226|0|0|0|0|0|
+Tue Feb 02 00:14:12 2016|79.2139999866|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 00:16:30 2016|78.236000061|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 00:18:44 2016|73.521999836|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 00:20:51 2016|66.9030001163|0|226|0|0|0|0|0|
+Tue Feb 02 00:22:54 2016|63.8109998703|0|226|0|0|0|0|0|
+Tue Feb 02 00:24:58 2016|63.1760001183|0|226|0|0|0|0|0|
+Tue Feb 02 00:27:14 2016|76.6889998913|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 00:29:38 2016|83.0829999447|1|226|0|1+Clive, City of - IA|0|0|0|
+Tue Feb 02 00:31:56 2016|78.8120000362|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 00:34:15 2016|78.1009998322|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 00:36:06 2016|51.4570000172|0|226|0|0|0|0|0|
+Tue Feb 02 00:38:24 2016|77.6659998894|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 00:41:00 2016|95.9670000076|2|226|0|2+Coachella, City of - CA+Columbia County - GA|0|0|0|
+Tue Feb 02 00:43:19 2016|79.1050000191|0|226|0|0|0|0|0|
+Tue Feb 02 00:45:37 2016|77.4739999771|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 00:47:48 2016|71.4919998646|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 00:49:42 2016|54.1769998074|0|226|0|0|0|0|0|
+Tue Feb 02 00:51:37 2016|54.4820001125|0|226|0|0|0|0|0|
+Tue Feb 02 00:53:34 2016|56.881000042|0|226|0|0|0|0|0|
+Tue Feb 02 00:55:30 2016|55.8929998875|0|226|0|0|0|0|0|
+Tue Feb 02 00:57:44 2016|74.3860001564|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:00:38 2016|113.509000063|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:03:11 2016|93.0460000038|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:05:40 2016|88.7750000954|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:08:07 2016|87.5859999657|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:10:25 2016|77.9730000496|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:12:55 2016|89.4979999065|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:15:13 2016|77.5779998302|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:17:48 2016|94.9990000725|3|226|1+Englewood, City of - CO|2+Coachella, City of - CA+Goleta, City of - CA|0|0|0|
+Tue Feb 02 01:20:06 2016|78.135999918|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:22:09 2016|63.2380001545|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:24:49 2016|99.3199999332|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:27:08 2016|79.1270000935|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:29:08 2016|60.6819999218|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:32:04 2016|115.958000183|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:34:20 2016|75.8559999466|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:36:32 2016|71.8459999561|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:39:03 2016|91.0899999142|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:41:39 2016|95.9789998531|3|226|1+Englewood, City of - CO|2+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:44:00 2016|80.3680000305|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:46:32 2016|91.625|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 01:48:46 2016|74.6530001163|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:50:59 2016|72.3059999943|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:53:13 2016|74.371999979|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 01:55:39 2016|85.8529999256|3|226|2+Englewood, City of - CO+Superior, Town of - CO|1+Wasilla, City of - AK|0|0|0|
+Tue Feb 02 01:58:12 2016|93.0280001163|2|226|1+Englewood, City of - CO|1+Goleta, City of - CA|0|0|0|
+Tue Feb 02 02:00:27 2016|74.8800001144|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 02:02:55 2016|87.9609999657|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:05:11 2016|76.3860001564|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:07:30 2016|78.4379999638|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 02:09:53 2016|82.635999918|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:11:59 2016|65.9820001125|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:14:52 2016|112.771999836|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 02:17:33 2016|101.259000063|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 02:20:14 2016|100.979000092|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 02:22:41 2016|86.7699999809|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 02:24:43 2016|62.5850000381|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:26:52 2016|68.3049998283|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:29:11 2016|79.4740002155|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 02:31:56 2016|104.404999971|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 02:34:01 2016|65.6180000305|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:36:14 2016|72.4270000458|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:38:41 2016|86.8739998341|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:41:20 2016|99.3550000191|2|226|1+Englewood, City of - CO|1+Grand Forks, City of - ND|0|0|0|
+Tue Feb 02 02:43:29 2016|68.6540000439|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 02:46:11 2016|102.282999992|3|226|1+Englewood, City of - CO|2+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 02:48:35 2016|84.0840001106|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:50:41 2016|65.0939998627|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:52:45 2016|64.5680000782|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:55:05 2016|79.9259998798|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:57:18 2016|73.2100000381|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 02:59:45 2016|86.0580000877|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 03:02:30 2016|105.368999958|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:05:04 2016|93.6659998894|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:07:18 2016|74.1119999886|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:12:50 2016|271.961999893|3|226|1+Englewood, City of - CO|2+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 03:15:35 2016|105.25|2|226|1+Englewood, City of - CO|1+Goleta, City of - CA|0|0|0|
+Tue Feb 02 03:18:18 2016|103.000999928|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:20:33 2016|74.9749999046|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:22:42 2016|68.882999897|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:25:31 2016|108.225000143|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 03:27:46 2016|75.2960000038|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:30:05 2016|78.7679998875|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:32:29 2016|83.9129998684|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:34:40 2016|71.3499999046|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:37:45 2016|124.513999939|5|226|1+Englewood, City of - CO|4+Bay City, City of - TX+Coachella, City of - CA+Lafourche Parish - LA+Whatcom Community College - WA|0|0|0|
+Tue Feb 02 03:39:51 2016|66.611000061|3|226|3+Englewood, City of - CO+North Ogden, City of - UT+Red Rocks Credit Union - CO|0|0|0|0|
+Tue Feb 02 03:42:24 2016|92.7410001755|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:44:27 2016|62.9659998417|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:46:40 2016|72.3869998455|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:49:06 2016|86.0639998913|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 03:51:21 2016|75.635999918|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:53:29 2016|67.7159998417|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:56:16 2016|106.847000122|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 03:58:50 2016|93.7590000629|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 04:01:28 2016|98.0149998665|3|226|1+Englewood, City of - CO|2+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 04:03:58 2016|90.4549999237|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:06:33 2016|94.263999939|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 04:09:16 2016|102.720999956|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 04:11:29 2016|73.8490002155|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:13:59 2016|89.9249999523|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 04:16:20 2016|80.9539999962|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 04:18:46 2016|85.7369999886|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:21:02 2016|75.253000021|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 04:23:09 2016|67.771999836|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:25:25 2016|75.0650000572|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:27:33 2016|68.861000061|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:30:32 2016|118.122999907|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 04:32:49 2016|77.1990001202|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 04:35:19 2016|90.3079998493|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 04:37:43 2016|83.7730000019|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 04:39:54 2016|70.6210000515|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:42:20 2016|86.0759999752|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:44:48 2016|87.8110001087|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 04:47:24 2016|96.0210001469|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 04:49:34 2016|70.2569999695|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 04:51:46 2016|72.2569999695|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:53:50 2016|63.4000000954|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:56:11 2016|81.489000082|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 04:58:25 2016|73.8890001774|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:01:07 2016|101.078999996|3|226|1+Englewood, City of - CO|2+Coachella, City of - CA+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 05:03:19 2016|72.0539999008|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:05:19 2016|60.2969999313|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:07:20 2016|60.7989997864|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:09:37 2016|76.9789998531|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:11:42 2016|65.4300000668|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:14:14 2016|91.8320000172|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 05:16:29 2016|75.0099999905|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:18:59 2016|89.2620000839|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:21:02 2016|62.9160001278|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:23:19 2016|76.8300001621|2|226|1+Englewood, City of - CO|1+Goleta, City of - CA|0|0|0|
+Tue Feb 02 05:25:46 2016|87.7479999065|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 05:28:08 2016|81.8059999943|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 05:30:25 2016|76.9790000916|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:32:33 2016|67.4149999619|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:34:57 2016|84.4330000877|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:36:59 2016|61.6919999123|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:39:37 2016|98.4709999561|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 05:42:07 2016|89.6750001907|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 05:44:24 2016|76.6979999542|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 05:46:26 2016|62.4539999962|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:48:31 2016|64.0429999828|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:51:10 2016|99.614000082|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 05:53:24 2016|73.8480000496|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:55:23 2016|58.7630000114|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:57:22 2016|58.6849999428|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 05:59:23 2016|61.1480000019|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:01:44 2016|81.0220000744|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:03:51 2016|66.492000103|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:06:07 2016|75.9260001183|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:08:21 2016|74.5520000458|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:10:20 2016|58.9399998188|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:12:20 2016|59.7239999771|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:14:36 2016|76.2979998589|2|226|1+Englewood, City of - CO|1+Whatcom Community College - WA|0|0|0|
+Tue Feb 02 06:17:01 2016|84.7019999027|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:19:25 2016|83.5590000153|2|226|1+Englewood, City of - CO|1+Goleta, City of - CA|0|0|0|
+Tue Feb 02 06:21:22 2016|57.1849999428|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:23:21 2016|59.1719999313|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:25:37 2016|75.9790000916|2|226|1+Englewood, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 06:27:44 2016|66.9270000458|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:29:46 2016|61.9210000038|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:32:17 2016|91.3100001812|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:34:21 2016|63.2030000687|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:36:24 2016|63.4079999924|1|226|1+Englewood, City of - CO|0|0|0|0|
+Tue Feb 02 06:38:53 2016|88.9949998856|2|226|1+Englewood, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 06:41:00 2016|66.8350000381|0|226|0|0|0|0|0|
+Tue Feb 02 06:43:00 2016|60.1779999733|0|226|0|0|0|0|0|
+Tue Feb 02 06:45:07 2016|66.9010000229|0|226|0|0|0|0|0|
+Tue Feb 02 06:47:12 2016|64.2109999657|0|226|0|0|0|0|0|
+Tue Feb 02 06:49:05 2016|53.0140001774|0|226|0|0|0|0|0|
+Tue Feb 02 06:51:41 2016|96.5630002022|2|226|0|2+Lafourche Parish - LA+Wasilla, City of - AK|0|0|0|
+Tue Feb 02 06:53:57 2016|75.8699998856|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 06:56:04 2016|66.7120001316|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 06:58:06 2016|61.5390000343|0|226|0|0|0|0|0|
+Tue Feb 02 07:00:24 2016|78.5829999447|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 07:02:30 2016|65.751999855|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 07:04:36 2016|66.2030000687|0|226|0|0|0|0|0|
+Tue Feb 02 07:06:51 2016|74.611000061|0|226|0|0|0|0|0|
+Tue Feb 02 07:08:43 2016|51.7290000916|0|226|0|0|0|0|0|
+Tue Feb 02 07:11:00 2016|76.8430001736|2|226|1+Dallas County - IA|1+Goleta, City of - CA|0|0|0|
+Tue Feb 02 07:12:51 2016|50.8309998512|0|226|0|0|0|0|0|
+Tue Feb 02 07:14:40 2016|49.4029998779|0|226|0|0|0|0|0|
+Tue Feb 02 07:16:37 2016|57.3180000782|0|226|0|0|0|0|0|
+Tue Feb 02 07:18:36 2016|58.6000001431|0|226|0|0|0|0|0|
+Tue Feb 02 07:20:50 2016|73.8190000057|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 07:22:54 2016|64.3050000668|0|226|0|0|0|0|0|
+Tue Feb 02 07:25:05 2016|70.5929999352|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 07:27:21 2016|75.9430000782|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 07:29:11 2016|49.6849999428|0|226|0|0|0|0|0|
+Tue Feb 02 07:31:24 2016|73.4040000439|1|226|0|1+Franklin, City of - TN|0|0|0|
+Tue Feb 02 07:33:31 2016|67.1089999676|1|226|0|1+Goleta, City of - CA|0|0|0|
+Tue Feb 02 07:35:41 2016|69.5230000019|0|226|0|0|0|0|0|
+Tue Feb 02 07:38:21 2016|100.159000158|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 07:40:22 2016|61.2060000896|0|226|0|0|0|0|0|
+Tue Feb 02 07:42:47 2016|84.7580001354|0|226|0|0|0|0|0|
+Tue Feb 02 07:44:51 2016|63.7649998665|0|226|0|0|0|0|0|
+Tue Feb 02 07:46:49 2016|57.7170000076|0|226|0|0|0|0|0|
+Tue Feb 02 07:48:49 2016|60.4809999466|0|226|0|0|0|0|0|
+Tue Feb 02 07:51:29 2016|99.9610002041|1|226|0|1+Chapel Hill, Town of - NC|0|0|0|
+Tue Feb 02 07:53:47 2016|77.5710000992|1|226|0|1+Chapel Hill, Town of - NC|0|0|0|
+Tue Feb 02 07:55:56 2016|69.5069999695|1|226|0|1+Chapel Hill, Town of - NC|0|0|0|
+Tue Feb 02 07:58:22 2016|85.0899999142|0|226|0|0|0|0|0|
+Tue Feb 02 08:00:26 2016|64.1749999523|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 08:02:30 2016|64.3049998283|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 08:04:20 2016|49.7139999866|0|226|0|0|0|0|0|
+Tue Feb 02 08:06:30 2016|69.6949999332|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 08:08:36 2016|66.0510001183|1|226|0|1+Yonkers, City of - NY|0|0|0|
+Tue Feb 02 08:10:36 2016|60.0269999504|0|226|0|0|0|0|0|
+Tue Feb 02 08:12:24 2016|48.2400000095|0|226|0|0|0|0|0|
+Tue Feb 02 08:14:57 2016|92.7650001049|2|226|0|2+Coachella, City of - CA+San Luis Obispo, City of - CA|0|0|0|
+Tue Feb 02 08:17:17 2016|79.493999958|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:19:18 2016|60.9379999638|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:21:20 2016|62.3320000172|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:23:40 2016|79.6059999466|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:25:44 2016|64.4130001068|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:28:13 2016|89.0090000629|2|226|1+Longmont, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 08:30:31 2016|77.9490001202|2|226|1+Longmont, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 08:32:37 2016|65.4199998379|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:34:40 2016|63.4710001945|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:36:50 2016|69.3980000019|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:39:05 2016|75.1210000515|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:41:09 2016|63.9409999847|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:43:20 2016|71.2900002003|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:45:42 2016|81.6080000401|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:47:48 2016|65.6700000763|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:49:52 2016|64.3320000172|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:52:02 2016|69.7159998417|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:54:36 2016|94.1040000916|2|226|1+Longmont, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 08:57:03 2016|86.5970001221|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 08:59:05 2016|62.382999897|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:01:35 2016|90.0420000553|2|226|1+Longmont, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 09:03:40 2016|64.5649998188|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:05:43 2016|62.8339998722|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:08:06 2016|83.6380000114|2|226|1+Longmont, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 09:10:34 2016|87.2000000477|2|226|1+Longmont, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 09:12:54 2016|80.8170001507|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:15:35 2016|100.440000057|2|226|1+Longmont, City of - CO|1+Whatcom Community College - WA|0|0|0|
+Tue Feb 02 09:18:04 2016|88.9169998169|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:20:05 2016|60.8760001659|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:22:25 2016|79.9520001411|2|226|1+Longmont, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 09:24:22 2016|56.7179999352|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:26:33 2016|71.382999897|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:28:52 2016|78.6460001469|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:31:10 2016|78.6579999924|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:33:22 2016|71.1579999924|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:35:41 2016|78.9150002003|2|226|1+Longmont, City of - CO|1+Mesa, City of - AZ|0|0|0|
+Tue Feb 02 09:37:49 2016|68.4919998646|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:39:53 2016|63.9340000153|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:42:09 2016|76.111000061|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:44:50 2016|100.763000011|2|226|1+Longmont, City of - CO|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 09:47:24 2016|93.4429998398|2|226|1+Longmont, City of - CO|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 09:49:31 2016|66.9930000305|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:51:22 2016|51.0190000534|1|226|1+Longmont, City of - CO|0|0|0|0|
+Tue Feb 02 09:53:24 2016|62.3430001736|0|226|0|0|0|0|0|
+Tue Feb 02 09:55:30 2016|65.2779998779|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 09:58:00 2016|90.5679998398|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 09:59:57 2016|57.2300000191|0|226|0|0|0|0|0|
+Tue Feb 02 10:02:06 2016|68.7400000095|0|226|0|0|0|0|0|
+Tue Feb 02 10:04:11 2016|64.5260000229|0|226|0|0|0|0|0|
+Tue Feb 02 10:06:05 2016|53.6900000572|0|226|0|0|0|0|0|
+Tue Feb 02 10:08:14 2016|68.9240000248|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 10:10:05 2016|51.2119998932|0|226|0|0|0|0|0|
+Tue Feb 02 10:12:23 2016|78.3139998913|0|226|0|0|0|0|0|
+Tue Feb 02 10:14:44 2016|81.0590000153|2|226|0|2+Goleta, City of - CA+Mesa, City of - AZ|0|0|0|
+Tue Feb 02 10:16:49 2016|64.5859999657|0|226|0|0|0|0|0|
+Tue Feb 02 10:18:59 2016|69.8870000839|1|226|0|1+Mesa, City of - AZ|0|0|0|
+Tue Feb 02 10:21:24 2016|84.8340001106|2|226|0|2+Coachella, City of - CA+Mesa, City of - AZ|0|0|0|
+Tue Feb 02 10:23:38 2016|74.3040001392|1|226|0|1+Mesa, City of - AZ|0|0|0|
+Tue Feb 02 10:25:51 2016|72.8980000019|1|226|0|1+Mesa, City of - AZ|0|0|0|
+Tue Feb 02 10:28:22 2016|91.0339999199|2|226|0|2+Mesa, City of - AZ+Tempe, City of - AZ|0|0|0|
+Tue Feb 02 10:30:42 2016|79.3510000706|1|226|0|1+Lafourche Parish - LA|0|0|0|
+Tue Feb 02 10:33:15 2016|93.7079999447|2|226|0|2+Coachella, City of - CA+Dallas County - IA|0|0|0|
+Tue Feb 02 10:35:15 2016|59.7990000248|0|226|0|0|0|0|0|
+Tue Feb 02 10:37:07 2016|51.9989998341|0|226|0|0|0|0|0|
+Tue Feb 02 10:39:18 2016|70.9800000191|0|226|0|0|0|0|0|
+Tue Feb 02 10:41:22 2016|63.5410001278|0|226|0|0|0|0|0|
+Tue Feb 02 10:43:41 2016|79.0050001144|1|226|0|1+Coachella, City of - CA|0|0|0|
+Tue Feb 02 10:45:45 2016|63.6229999065|0|226|0|0|0|0|0|
+Tue Feb 02 10:47:43 2016|58.4199998379|0|226|0|0|0|0|0|
