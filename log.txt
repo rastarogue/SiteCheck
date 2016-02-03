@@ -2561,3 +2561,4 @@ Wed Feb 03 07:40:29 2016|60.6940000057|1|226|1+Tempe Elementary School District 
 Wed Feb 03 07:42:30 2016|60.4909999371|1|226|1+Tempe Elementary School District No. 3 - AZ|0|0|0|0|
 Wed Feb 03 07:44:44 2016|74.6470000744|1|226|1+Tempe Elementary School District No. 3 - AZ|0|0|0|0|
 Wed Feb 03 07:46:50 2016|65.9819998741|1|226|1+Tempe Elementary School District No. 3 - AZ|0|0|0|0|
+Wed Feb 03 07:49:02 2016|71.2230000496|1|226|1+Tempe Elementary School District No. 3 - AZ|0|0|0|0|
