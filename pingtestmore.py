@@ -10,6 +10,7 @@ import requests
 import xlrd
 import time
 import sendemail
+import ParseErrors
         
 def parsedomain(domain):
     """ Cleans up the domains from the VSD to be useable by the program.
@@ -175,11 +176,21 @@ for row in range(sh.nrows):
         cmstype.append(str(sh.cell_value(rowx=row,colx=3)))
         maint.append(str(sh.cell_value(rowx=row,colx=5)))
         server.append(str(sh.cell_value(rowx=row,colx=18)))
- 
+
 for domain in domainlist1:
     domainlist.append(parsedomain(domain))
     
 domain_dict=build_domain_dict(domainlist)
+
+domain_file=open('C:\wamp\www\cgi-bin\domainfile.txt','w')
+index=0
+for client in clientname:
+    if (cmstype[index]=="6.0" and domain!="www." and hostlist[index]=="Vision"):
+        domain_file.write(client+'\n')
+    index=index+1
+domain_file.close()
+    
+    
 start_time=time.time()
 end_time=start_time+6048000
 
@@ -191,6 +202,7 @@ while(time.time()<=end_time):
     run_time, results, errors, count = test_sites(domainlist)
     old_process_results(run_time, results, errors, count, last_five)
     process_results(run_time,results,errors,count,log,domain_dict)[0:8]
+    ParseErrors.generate_graphs()
     time.sleep(pause)
         
     
