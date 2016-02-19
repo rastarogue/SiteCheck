@@ -11,6 +11,7 @@ import xlrd
 import time
 import sendemail
 import ParseErrors
+import filecopy
         
 def parsedomain(domain):
     """ Cleans up the domains from the VSD to be useable by the program.
@@ -45,7 +46,7 @@ def test_sites(domainlist):
     index=0
     count=0
     for domain in domainlist:
-        if (cmstype[index]=="6.0" and domain!="www." and hostlist[index]=="Vision"):
+        if (cmstype[index]=="6.0" and domain!="www." and hostlist[index]=="Vision"  and server[index]!=''):
             count=count+1
             try:
                 resp=requests.head("http://"+domain, timeout=fail_time).status_code
@@ -140,6 +141,7 @@ def process_results(run_time, results, errors, count, log, domain_dict):
     check_write=time.ctime()+"|"+str(run_time)+"|"+str(errors)+"|"+str(count)+"|"+processed+"\n"
     temp.write(check_write)
     temp.close()
+    filecopy.copylog()
     print check_write
     return check
 
@@ -185,8 +187,8 @@ domain_dict=build_domain_dict(domainlist)
 domain_file=open('C:\wamp\www\cgi-bin\domainfile.txt','w')
 index=0
 for client in clientname:
-    if (cmstype[index]=="6.0" and domain!="www." and hostlist[index]=="Vision"):
-        domain_file.write(client+'\n')
+    if (cmstype[index]=="6.0" and domain!="www." and hostlist[index]=="Vision" and server[index]!=''):
+        domain_file.write(client+'|'+server[index]+'\n')
     index=index+1
 domain_file.close()
     
@@ -200,7 +202,7 @@ while(time.time()<=end_time):
     os.system("ipconfig /flushdns")
     print "\n"
     run_time, results, errors, count = test_sites(domainlist)
-    old_process_results(run_time, results, errors, count, last_five)
+    #old_process_results(run_time, results, errors, count, last_five)
     process_results(run_time,results,errors,count,log,domain_dict)[0:8]
     ParseErrors.generate_graphs()
     time.sleep(pause)

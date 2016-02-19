@@ -52,11 +52,19 @@ class responses:
 
 def gen_plot(start_time, end_time, time_frame,logs):
     plt.ioff()
-    print "Start Time: "+str(start_time)
-    print "End Time: "+str(end_time)
+    #print "Start Time: "+str(start_time)
+    #print "End Time: "+str(end_time)
     title='Errors_over_Time_'+time_frame
     x=[]    
     y=[]
+    day=89400
+    week=7*day
+    month=30*day
+    year=365*day
+    time1=day
+    time2=2*day
+    time3=3*day
+    time4=week
     for line in logs:
         if (line.raw_time>=start_time and line.raw_time<=end_time):
             x.append(line.plot_time)
@@ -69,10 +77,21 @@ def gen_plot(start_time, end_time, time_frame,logs):
     plt.xlabel('Date/Time of check')
     ax.xaxis.set_major_formatter(mdates.DateFormatter('%m/%d/%Y'))
     ax.xaxis.set_major_locator(mdates.DayLocator())
-    ax.xaxis.set_minor_locator(mdates.HourLocator(range(1,24,2)))
+    time_jump=end_time-start_time
+    if (time_jump<=time1):
+        ax.xaxis.set_minor_locator(mdates.HourLocator(range(0,24,1)))
+    elif(time_jump<=time2):
+        ax.xaxis.set_minor_locator(mdates.HourLocator(range(0,24,2)))
+    elif(time_jump<=time3):
+        ax.xaxis.set_minor_locator(mdates.HourLocator(range(0,24,4)))
+    elif(time_jump<=time4):
+        ax.xaxis.set_minor_locator(mdates.HourLocator(range(0,24,8)))
+    else:
+        ax.xaxis.set_minor_locator(mdates.HourLocator(range(0,24,12)))
     ax.xaxis.set_minor_formatter(mdates.DateFormatter('%H'))
     ax.yaxis.minor_label_orientation=-3.14/4
     plt.ylim(ymin=0, ymax=(max(y)+1))
+    plt.xlim(xmin=(min(x)),xmax=(max(x)))
     plt.tick_params(which='both', width=2)
     plt.tick_params(which='major', length=16,pad=20)
     plt.tick_params(which='minor', length=8, color='r')
@@ -112,14 +131,14 @@ def generate_graphs():
     time.clock()
     end_time=time.mktime(time.localtime())
     time_frame="Last_Month"
-    print gen_plot(end_time-month, end_time, time_frame, logs)
+    gen_plot(end_time-month, end_time, time_frame, logs)
     time.clock()
     time_frame="Last_Week"
-    print gen_plot(end_time-week, end_time, time_frame, logs)
+    gen_plot(end_time-week, end_time, time_frame, logs)
     time.clock()
     time_frame="Last_48_Hours"
-    print gen_plot(end_time-2*day, end_time, time_frame, logs)
+    gen_plot(end_time-2*day, end_time, time_frame, logs)
     time.clock()
     time_frame="Last_24_Hours"
-    print gen_plot(end_time-day, end_time, time_frame, logs)
+    gen_plot(end_time-day, end_time, time_frame, logs)
     time.clock()
